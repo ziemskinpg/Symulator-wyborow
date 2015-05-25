@@ -1,0 +1,2 @@
+# Symulator-wyborow
+programik nasz
