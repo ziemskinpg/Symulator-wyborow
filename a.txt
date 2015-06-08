@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 mniam mniam
 
 czemu nie œmiga
+=======
+dsdfefefgreg vbn
+>>>>>>> 2d9b24afcf569202bed7697bbcccffeae8859beb
